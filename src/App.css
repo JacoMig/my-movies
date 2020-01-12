@@ -28,6 +28,31 @@
   color: #61dafb;
 }
 
+.dropdown-menu {
+  overflow-y: scroll;
+  max-height: 200px;
+}
+
+.dropdown-item {
+  cursor: pointer
+}
+
+.main-content {
+  padding-top: 70px;
+}
+
+h2 {
+  padding: 20px 0;
+}
+
+.card {
+  margin-bottom: 2em;
+}
+
+.card-body {
+  color: black
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
